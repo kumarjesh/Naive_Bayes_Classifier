@@ -106,11 +106,7 @@ The app will open automatically in your web browser at **`http://localhost:8501`
 If you found this project helpful, give it a ⭐ on GitHub and connect with me on LinkedIn!
 
 - **GitHub:** [@kumarjesh](https://github.com/kumarjesh)
-<<<<<<< HEAD
 - **LinkedIn:** [Rajesh Kumar P](https://www.linkedin.com/in/rajesh-kumar-p-301880315)
-=======
-- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/rajesh-kumar-p-301880315)
->>>>>>> b7d1a5ffee6a1c57be6edbab2037efcec5a95149
 
 ---
 *Built with ❤️ using Python & Streamlit.*
