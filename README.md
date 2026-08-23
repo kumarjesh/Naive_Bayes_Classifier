@@ -27,7 +27,6 @@ An end-to-end Machine Learning web application built with **Python**, **Scikit-L
 ├── emails.csv                                     # Dataset containing 5,700+ email messages
 ├── vectorizer.pkl                                 # Pre-trained CountVectorizer vocabulary
 ├── spam_model.pkl                                 # Pre-trained Multinomial Naive Bayes classifier
-├── create_pdf.py                                  # PDF Documentation Generator script
 ├── requirements.txt                               # Python dependencies list
 └── README.md                                      # Project documentation
 ```
