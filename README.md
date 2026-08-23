@@ -21,7 +21,7 @@ An end-to-end Machine Learning web application built with **Python**, **Scikit-L
 
 ## 📂 Project Structure
 
-```gcode
+```text
 ├── app.py                                         # Interactive Streamlit Web Interface
 ├── Spam_Classification_using_Naive_Bayes.ipynb    # Training notebook & EDA
 ├── emails.csv                                     # Dataset containing 5,700+ email messages
